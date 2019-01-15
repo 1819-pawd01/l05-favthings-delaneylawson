@@ -1,0 +1,23 @@
+/*
+* Name 
+* Due date 
+* project Name and description
+*/
+
+/* the universal selector */
+
+*{
+
+}
+
+/* Body Attributes here */
+
+body {
+background-color:yellow;
+    color:black;
+    font-family: gerorga;
+}
+a:hover {
+    color:mediumpurple
+        text-decoration: underline
+}
